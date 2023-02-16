@@ -1,0 +1,40 @@
+50	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+51	The Prestige
+52	Alien
+53	The Lion King
+54	The Lives of Others
+55	The Great Dictator
+56	Inside Out
+57	Cinema Paradiso
+58	The Shining
+59	Paths of Glory
+60	Django Unchained
+61	The Dark Knight Rises
+62	WALL·E
+63	American Beauty
+64	Grave of the Fireflies
+65	Aliens
+66	Citizen Kane
+67	North by Northwest
+68	Princess Mononoke
+69	Vertigo
+70	Oldeuboi
+71	Das Boot
+72	M
+73	Star Wars: Episode VI - Return of the Jedi
+74	Once Upon a Time in America
+75	Amélie
+76	Witness for the Prosecution
+77	Reservoir Dogs
+78	Braveheart
+79	Toy Story 3
+80	A Clockwork Orange
+81	Double Indemnity
+82	Taxi Driver
+83	Requiem for a Dream
+84	To Kill a Mockingbird
+85	Lawrence of Arabia
+86	Eternal Sunshine of the Spotless Mind
+87	Full Metal Jacket
+88	The Sting
+89	Amadeus

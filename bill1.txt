@@ -1,0 +1,40 @@
+1	The Shawshank Redemption
+2	The Godfather
+3	The Godfather: Part II
+4	The Dark Knight
+5	12 Angry Men
+6	Schindler's List
+7	Pulp Fiction
+8	The Good, the Bad and the Ugly
+9	The Lord of the Rings: The Return of the King
+10	Fight Club
+11	The Lord of the Rings: The Fellowship of the Ring
+12	Star Wars: Episode V - The Empire Strikes Back
+13	Forrest Gump
+14	Inception
+15	One Flew Over the Cuckoo's Nest
+16	The Lord of the Rings: The Two Towers
+17	Goodfellas
+18	The Matrix
+19	Star Wars
+20	Seven Samurai
+21	City of God
+22	Se7en
+23	The Silence of the Lambs
+24	The Usual Suspects
+25	It's a Wonderful Life
+26	Life Is Beautiful
+27	Léon: The Professional
+28	Once Upon a Time in the West
+29	Interstellar
+30	Saving Private Ryan
+31	American History X
+32	Spirited Away
+33	Casablanca
+34	Raiders of the Lost Ark
+35	Psycho
+36	City Lights
+37	Rear Window
+38	The Intouchables
+39	Modern Times
+40	Terminator 2: Judgment Day
